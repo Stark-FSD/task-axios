@@ -1,3 +1,21 @@
+.user-cards{
+  display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+}
+
+h1{
+  margin: 0px;
+}
+
+.css-v4u5dn-MuiInputBase-root-MuiInput-root {
+  width: 400px;
+}
+
+
 .App {
   text-align: center;
 }
